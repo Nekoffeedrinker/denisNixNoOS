@@ -1,5 +1,5 @@
 {
-  description = "Configuración de Home Manager para Kubuntu";
+  description = "Configuración de Home Manager para sitemas no-NixOS";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
