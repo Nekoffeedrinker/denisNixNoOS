@@ -8,6 +8,7 @@
   programs.home-manager.enable = true;
 
   imports = [
+    ./modules/indispensables.nix
     ./modules/fish.nix
   ];
 }
