@@ -10,5 +10,6 @@
   imports = [
     ./modules/indispensables.nix
     ./modules/fish.nix
+    ./modules/programas.nix
   ];
 }
