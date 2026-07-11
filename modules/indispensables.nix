@@ -24,7 +24,6 @@
     hyfetch # pride fetch
     btop # monitor de recursos
     ncdu # analizar el espacio en disco
-    wordgrinder # Editor de texto enrriquecido
 
     # Terminal divertida
     cbonsai # arbol bonsai
